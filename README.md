@@ -9,7 +9,7 @@ A delightful web application featuring a rotating slideshow of beautiful cupcake
 - ⚡ Lightweight and fast
 
 ## Live Demo
-View the live demo: [https://iam269.github.io/Rotating-Cupcake-Slideshow/](https://iam269.github.io/Rotating-Cupcake-Slideshow/)
+View the live demo: [https://itsiamdev.github.io/Rotating-Cupcake-Slideshow/](https://itsiamdev.github.io/Rotating-Cupcake-Slideshow/)
 
 ## Technologies Used
 - HTML5
